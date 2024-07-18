@@ -1,4 +1,4 @@
-ok# Ansible-practice
+# Ansible-practice
 # To establish a passwordless connection between machines using Ansible, follow these detailed steps:
 ## Setting Up an EC2 Instance On AWS 
 - Create an EC2 Instance:
