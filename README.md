@@ -1,4 +1,4 @@
-# Ansible-practice
+ok# Ansible-practice
 # To establish a passwordless connection between machines using Ansible, follow these detailed steps:
 ## Setting Up an EC2 Instance On AWS 
 - Create an EC2 Instance:
@@ -103,3 +103,5 @@ ssh 172.31.35.205
 
 Ensure that you can connect to the target server without being prompted for a password. This confirms that the SSH key authentication is correctly set up.
 With this setup, Ansible can now connect to the target machine without requiring password authentication, enabling efficient and secure automation of tasks across your instances.
+
+it is pending you have to complete
